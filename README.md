@@ -1,7 +1,8 @@
-## Hi there 👋
+### Hi there 👋
 
+![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZhenYiao)
 <!--
-**ZhenYiao/ZhenYiao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Zheby/zheby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
