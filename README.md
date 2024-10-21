@@ -25,6 +25,9 @@ Here are some ideas to get you started:
 - 🌏 Open Source
 - 💻 Rust, Golang, NodeJS
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ZhenYiao)](https://github.com/ZhenYiao)
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZhenYiao/ZhenYiao/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZhenYiao/ZhenYiao/output/github-contribution-grid-snake.svg">
