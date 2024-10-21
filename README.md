@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**ZhenYiao/ZhenYiao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**lazhenyi/lazhenyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 <!--
@@ -29,9 +29,9 @@ Here are some ideas to get you started:
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZhenYiao/lazhenyi/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZhenYiao/lazhenyi/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lazhenyi/lazhenyi/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lazhenyi/lazhenyi/output/github-contribution-grid-snake.svg">
 <!--   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lazhenyi/lazhenyi/output/github-contribution-grid-snake.svg"> -->
 </picture>
 
-[![ZhenYiao](https://github-profile-trophy.vercel.app/?username=lazhenyi&column=7&margin-w=10&no-bg=true)](https://github.com/lazhenyi/lazhenyi)
+[![lazhenyi](https://github-profile-trophy.vercel.app/?username=lazhenyi&column=7&margin-w=10&no-bg=true)](https://github.com/lazhenyi/lazhenyi)
