@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!--
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ZhenYiao&show_icons=true" alt="ZhenYiao' github stats" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=lazhenyi&show_icons=true" alt="lazhenyi' github stats" />
 -->
 
 
@@ -25,13 +25,13 @@ Here are some ideas to get you started:
 - 🌏 Open Source
 - 💻 Rust, Golang, NodeJS
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ZhenYiao)](https://github.com/ZhenYiao)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lazhenyi)](https://github.com/lazhenyi)
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZhenYiao/ZhenYiao/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZhenYiao/ZhenYiao/output/github-contribution-grid-snake.svg">
-<!--   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ZhenYiao/ZhenYiao/output/github-contribution-grid-snake.svg"> -->
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZhenYiao/lazhenyi/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZhenYiao/lazhenyi/output/github-contribution-grid-snake.svg">
+<!--   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lazhenyi/lazhenyi/output/github-contribution-grid-snake.svg"> -->
 </picture>
 
-[![ZhenYiao](https://github-profile-trophy.vercel.app/?username=ZhenYiao&column=7&margin-w=10&no-bg=true)](https://github.com/ZhenYiao/ZhenYiao)
+[![ZhenYiao](https://github-profile-trophy.vercel.app/?username=lazhenyi&column=7&margin-w=10&no-bg=true)](https://github.com/lazhenyi/lazhenyi)
