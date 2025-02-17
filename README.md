@@ -4,7 +4,7 @@ I'm a fullstack developer from China 🇨🇳
 
 **About me**
 
-- 💼 FrontEnd Engineer at [GitDataAI](http://gitdata.ai/)
+- 💼 fullstack Engineer at [GitDataAI](http://gitdata.ai/)
 
 - ❤️ I love writing Rust, and building fun experiments on type-level
 
