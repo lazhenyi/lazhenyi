@@ -7,7 +7,8 @@
 - 💬 Ask me about Rust, Go, TypeScript, or system architecture
 - 📫 How to reach me: 
   - [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:zheyqaq@gmail.com)
-  - [![QQ Mail](https://img.shields.io/badge/QQ_Mail-12B7F5?style=flat&logo=tencent-qq&logoColor=white)](mailto:434836402@qq.com)
+  (slow)
+  - [![QQ Mail](https://img.shields.io/badge/QQ_Mail-12B7F5?style=flat&logo=tencent-qq&logoColor=white)](mailto:434836402@qq.com) (fast)
 - ⚡ Fun fact: I love building scalable and intelligent systems!
 
 ## 💻 Tech Stack
