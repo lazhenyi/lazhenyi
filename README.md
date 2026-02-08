@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Lazhenyi!
 
 ## 🚀 About Me
-- 🎓 **Undergraduate student** currently pursuing my bachelor's degree
+- 🎓 **Undergraduate student** currently pursuing my bachelor's degree of CS
 - 🔭 I specialize in **high-concurrency, high-available systems** and **AI Agent** development
 - 🌱 Exploring modern technology stacks and cutting-edge solutions
 - 💬 Ask me about Rust, Go, TypeScript, or system architecture
