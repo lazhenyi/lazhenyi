@@ -1,12 +1,8 @@
 # 👋 Hi, I'm Lazhenyi!
 
-<a href="https://github.com/lazhenyi">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=lazhenyi&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Lazhenyi's GitHub Stats" />
-</a>
-
 ## 🚀 About Me
 - 🎓 **Undergraduate student** currently pursuing my bachelor's degree
-- 🔭 I specialize in **high-concurrency, high-availability systems** and **AI Agent** development
+- 🔭 I specialize in **high-concurrency, high-available systems** and **AI Agent** development
 - 🌱 Exploring modern technology stacks and cutting-edge solutions
 - 💬 Ask me about Rust, Go, TypeScript, or system architecture
 - 📫 How to reach me: 
@@ -38,6 +34,13 @@
 ![JetBrains](https://img.shields.io/badge/JetBrains-000000?style=flat&logo=jetbrains&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="profile/stats.svg" alt="GitHub Stats" width="48%" />
+  <img src="profile/top-langs.svg" alt="Top Languages" width="48%" />
+</p>
+
 ## 🎯 Expertise Areas
 - **High Concurrency Systems** - Building scalable applications that handle massive traffic
 - **High Availability Architecture** - Designing fault-tolerant and resilient systems  
@@ -45,23 +48,11 @@
 - **Modern Full-Stack Development** - From backend services to frontend interfaces
 - **Cloud Native Technologies** - Containerization, orchestration, and microservices
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lazhenyi&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lazhenyi&theme=radical&row=1&column=6" alt="GitHub Trophies" />
-</p>
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lazhenyi&theme=react-dark" alt="Activity Graph" />
-</p>
+## 🏗️ Current Focus
+- Building high-concurrency systems with **Rust** and **Go**
+- Developing AI Agents with modern frameworks
+- Creating scalable microservices with **Kubernetes** and **Docker**
+- Full-stack applications using **React/Vue** + **Node.js/Go**
 
 ## 🎯 My Goals
 - ✅ Master distributed systems and cloud-native architectures
@@ -73,7 +64,12 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lazhenyi&color=blueviolet&style=flat" alt="Profile Views" />
+  <a href="https://github.com/lazhenyi?tab=repositories">
+    <img src="https://img.shields.io/badge/View_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repositories" />
+  </a>
+  <a href="https://github.com/lazhenyi?tab=stars">
+    <img src="https://img.shields.io/badge/View_Starred_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Starred Projects" />
+  </a>
 </p>
 
 <p align="center">
