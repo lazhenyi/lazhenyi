@@ -34,12 +34,6 @@
 ![JetBrains](https://img.shields.io/badge/JetBrains-000000?style=flat&logo=jetbrains&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="profile/stats.svg" alt="GitHub Stats" width="48%" />
-  <img src="profile/top-langs.svg" alt="Top Languages" width="48%" />
-</p>
 
 ## 🎯 Expertise Areas
 - **High Concurrency Systems** - Building scalable applications that handle massive traffic
