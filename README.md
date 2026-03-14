@@ -7,8 +7,7 @@
 - 💬 Ask me about Rust, Go, TypeScript, or system architecture
 - 📫 How to reach me: 
   - [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:zheyqaq@gmail.com)
-  (slow)
-  - [![QQ Mail](https://img.shields.io/badge/QQ_Mail-12B7F5?style=flat&logo=tencent-qq&logoColor=white)](mailto:434836402@qq.com) (fast)
+  - [![QQ Mail](https://img.shields.io/badge/QQ_Mail-12B7F5?style=flat&logo=tencent-qq&logoColor=white)](mailto:434836402@qq.com) 
 - ⚡ Fun fact: I love building scalable and intelligent systems!
 
 ## 💻 Tech Stack
@@ -49,6 +48,11 @@
 - **Modern Full-Stack Development** - From backend services to frontend interfaces
 - **Cloud Native Technologies** - Containerization, orchestration, and microservices
 
+| Company                     | Role                    |
+|-----------------------------|-------------------------|
+| Chengdu KaiYun Interstellar | Full-Stack Developer    |
+| Beijing YunLiu Technology   | Blockchain Developer    |
+
 ## 🏗️ Current Focus
 - Building high-concurrency systems with **Rust** and **Go**
 - Developing AI Agents with modern frameworks
@@ -71,8 +75,4 @@
   <a href="https://github.com/lazhenyi?tab=stars">
     <img src="https://img.shields.io/badge/View_Starred_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Starred Projects" />
   </a>
-</p>
-
-<p align="center">
-  Made with ❤️ and Markdown
 </p>
