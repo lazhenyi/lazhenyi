@@ -12,7 +12,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lazhenyi&show_icons=true" alt="Lazhenyi's GitHub Stats" />
-  <img src="./profile/top-langs.svg" alt="Most Used Languages" />
 </p>
 
 ## 💻 Tech Stack
