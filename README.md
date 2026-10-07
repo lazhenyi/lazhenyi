@@ -1,14 +1,19 @@
 # 👋 Hi, I'm Lazhenyi!
 
 ## 🚀 About Me
-- 🎓 **Undergraduate student** currently pursuing my bachelor's degree of CS
-- 🔭 I specialize in **high-concurrency, high-available systems** and **AI Agent** development
+- 🎓 **Undergraduate student** pursuing a bachelor's degree in Computer Science
+- 🔭 I specialize in **high-concurrency, high-availability systems** and **AI Agent** development
 - 🌱 Exploring modern technology stacks and cutting-edge solutions
 - 💬 Ask me about Rust, Go, TypeScript, or system architecture
-- 📫 How to reach me: 
+- 📫 How to reach me:
   - [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:zheyqaq@gmail.com)
-  - [![QQ Mail](https://img.shields.io/badge/QQ_Mail-12B7F5?style=flat&logo=tencent-qq&logoColor=white)](mailto:434836402@qq.com) 
+  - [![QQ Mail](https://img.shields.io/badge/QQ_Mail-12B7F5?style=flat&logo=tencent-qq&logoColor=white)](mailto:434836402@qq.com)
 - ⚡ Fun fact: I love building scalable and intelligent systems!
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lazhenyi&show_icons=true" alt="Lazhenyi's GitHub Stats" />
+  <img src="./profile/top-langs.svg" alt="Most Used Languages" />
+</p>
 
 ## 💻 Tech Stack
 
@@ -34,13 +39,14 @@
 ![JetBrains](https://img.shields.io/badge/JetBrains-000000?style=flat&logo=jetbrains&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
+## 🧠 Expertise Areas
+- **High-Concurrency Systems** — building scalable applications that handle massive traffic
+- **High-Availability Architecture** — designing fault-tolerant and resilient systems
+- **AI Agent Development** — creating intelligent agents with modern AI frameworks
+- **Modern Full-Stack Development** — from backend services to frontend interfaces
+- **Cloud-Native Technologies** — containerization, orchestration, and microservices
 
-## 🎯 Expertise Areas
-- **High Concurrency Systems** - Building scalable applications that handle massive traffic
-- **High Availability Architecture** - Designing fault-tolerant and resilient systems  
-- **AI Agent Development** - Creating intelligent agents with modern AI frameworks
-- **Modern Full-Stack Development** - From backend services to frontend interfaces
-- **Cloud Native Technologies** - Containerization, orchestration, and microservices
+## 💼 Experience
 
 | Company                     | Role                    |
 |-----------------------------|-------------------------|
@@ -53,7 +59,7 @@
 - Creating scalable microservices with **Kubernetes** and **Docker**
 - Full-stack applications using **React/Vue** + **Node.js/Go**
 
-## 🎯 My Goals
+## 🎯 Goals
 - ✅ Master distributed systems and cloud-native architectures
 - 🎯 Contribute to open source projects in the Rust and Go ecosystems
 - 🌟 Build innovative AI-powered applications
@@ -66,7 +72,7 @@
   <a href="https://github.com/lazhenyi?tab=repositories">
     <img src="https://img.shields.io/badge/View_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repositories" />
   </a>
-  <a href="https://github.com/lazhenyi?tab=stars">
-    <img src="https://img.shields.io/badge/View_Starred_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Starred Projects" />
+  <a href="mailto:zheyqaq@gmail.com">
+    <img src="https://img.shields.io/badge/Get_in_Touch-181717?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Get in Touch" />
   </a>
 </p>
